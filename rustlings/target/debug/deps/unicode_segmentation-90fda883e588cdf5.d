@@ -1,0 +1,11 @@
+/home/ymvej/Rust-learning/rustlings/target/debug/deps/unicode_segmentation-90fda883e588cdf5.rmeta: /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/ymvej/Rust-learning/rustlings/target/debug/deps/libunicode_segmentation-90fda883e588cdf5.rlib: /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/ymvej/Rust-learning/rustlings/target/debug/deps/unicode_segmentation-90fda883e588cdf5.d: /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs /home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs
+
+/home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/lib.rs:
+/home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/grapheme.rs:
+/home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/tables.rs:
+/home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/word.rs:
+/home/ymvej/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.8.0/src/sentence.rs:
