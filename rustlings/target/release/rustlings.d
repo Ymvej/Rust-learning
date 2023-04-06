@@ -1,0 +1,1 @@
+/home/ymvej/Rust-learning/rustlings/target/release/rustlings: /home/ymvej/Rust-learning/rustlings/src/exercise.rs /home/ymvej/Rust-learning/rustlings/src/main.rs /home/ymvej/Rust-learning/rustlings/src/project.rs /home/ymvej/Rust-learning/rustlings/src/run.rs /home/ymvej/Rust-learning/rustlings/src/ui.rs /home/ymvej/Rust-learning/rustlings/src/verify.rs
